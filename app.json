@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "SIRELA",
+    "slug": "sirela-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#101B3D"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sirela.app"
+    },
+    "android": {
+      "package": "com.sirela.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#101B3D"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
